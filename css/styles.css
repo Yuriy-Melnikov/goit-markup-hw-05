@@ -218,11 +218,10 @@ address {
   background-color: #404bbf;
 }
 
-.section-solutions-btn:focus {
-  background-color: #404bbf;
+.nav-list .nav-link:hover {
+  color: #404bbf;
 }
 
-.nav-list :hover,
-.nav-list :focus {
+.nav-list .nav-link:focus {
   color: #404bbf;
 }
