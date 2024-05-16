@@ -45,6 +45,14 @@ address {
   color: #2e2f42;
 }
 
+.nav-link:hover {
+  color: #404bbf;
+}
+
+.nav-link:focus {
+  color: #404bbf;
+}
+
 .address-mail {
   font-weight: 400;
   font-size: 16px;
@@ -84,6 +92,14 @@ address {
   color: #fff;
   background: #4d5ae5;
   cursor: pointer;
+}
+
+.section-solutions-btn:focus {
+  background-color: #404bbf;
+}
+
+.section-solutions-btn:hover {
+  background-color: #404bbf;
 }
 
 /* Section 2 */
@@ -212,16 +228,4 @@ address {
 
 .address-tel:hover {
   color: #4d5ae5;
-}
-
-.section-solutions-btn:hover {
-  background-color: #404bbf;
-}
-
-.nav-link:hover {
-  color: #404bbf;
-}
-
-.nav-link:focus {
-  color: #404bbf;
 }
