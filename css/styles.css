@@ -509,7 +509,7 @@ header {
 
 .footer-logo-text {
   margin-left: 156px;
-  margin-right: 120px;
+  /* margin-right: 120px; */
 }
 
 .footer-logo {
