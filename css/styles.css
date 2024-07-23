@@ -119,6 +119,7 @@ header {
 
 .nav-link.edit {
   position: relative;
+  color: #404bbf;
 }
 
 .nav-link.edit:after {
@@ -165,7 +166,7 @@ header {
   margin-left: auto;
 }
 
-.adress-item {
+.address-item {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -324,25 +325,6 @@ header {
 .icon-future {
   width: 64px;
   height: 64px;
-}
-
-.solutions-section {
-  background-color: #2e2f42;
-  height: 600px;
-  max-width: 1440px;
-  display: flex;
-  align-items: center;
-  padding: 188px 0;
-  margin-left: auto;
-  margin-right: auto;
-  background-image: linear-gradient(
-      rgba(46, 47, 66, 0.7),
-      rgba(46, 47, 66, 0.7)
-    ),
-    url(../images/people-office\ optimize.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
 }
 
 /* Section 3 */
@@ -644,7 +626,7 @@ header {
 
 .icon-link:hover,
 .icon-link:focus {
-  background-color: #31d0aa;
+  background-color: #404bbf;
 }
 
 .icon-icon {
